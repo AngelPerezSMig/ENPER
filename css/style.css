@@ -61,7 +61,7 @@ body {
   line-height: 1.5;
   color:  #28a745;
   text-align: left;
-  background-color: #007bff;
+  background-color: #fff;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -208,7 +208,7 @@ table {
 caption {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
-  color: #6c757d;
+  color: #28a745;
   text-align: left;
   caption-side: bottom;
 }
@@ -484,7 +484,7 @@ small,
 mark,
 .mark {
   padding: 0.2em;
-  background-color: #fcf8e3;
+  background-color: #7fb51b;
 }
 
 .list-unstyled {
