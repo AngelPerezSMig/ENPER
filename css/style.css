@@ -533,7 +533,7 @@ mark,
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #F5F5F5;
-  border: 1px solid #dee2e6;
+  border: 1px solid #87baed;
   max-width: 100%;
   height: auto;
 }
@@ -566,7 +566,7 @@ kbd {
   padding: 0.2rem 0.4rem;
   font-size: 87.5%;
   color: #fff;
-  background-color: #212529;
+  background-color:#1c7891;
 }
 
 kbd kbd {
@@ -2321,7 +2321,7 @@ textarea.form-control {
 .btn {
   display: inline-block;
   font-weight: 400;
-  color: #6C757D;
+  color: #599ad4;
   text-align: center;
   vertical-align: middle;
   user-select: none;
@@ -2341,7 +2341,7 @@ textarea.form-control {
 }
 
 .btn:hover {
-  color: #6C757D;
+  color: #599ad4;
   text-decoration: none;
 }
 
@@ -3935,13 +3935,13 @@ input[type="button"].btn-block {
 }
 
 .nav-link.disabled {
-  color: #6c757d;
+  color: #25b04f;
   pointer-events: none;
   cursor: default;
 }
 
 .nav-tabs {
-  border-bottom: 1px solid #dee2e6;
+  border-bottom: 1px solid #5e9ddb;
 }
 
 .nav-tabs .nav-item {
@@ -3953,11 +3953,11 @@ input[type="button"].btn-block {
 }
 
 .nav-tabs .nav-link:hover, .nav-tabs .nav-link:focus {
-  border-color: #e9ecef #e9ecef #dee2e6;
+  border-color:  #5e9ddb #5e9ddb #5e9ddb;
 }
 
 .nav-tabs .nav-link.disabled {
-  color: #6c757d;
+  color: #25b04f;
   background-color: transparent;
   border-color: transparent;
 }
