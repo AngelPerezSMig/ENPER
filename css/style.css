@@ -9473,7 +9473,7 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .btn.btn-primary {
-  color: #3D464D !important;
+  color: #388a46 !important;
 }
 
 .btn-square {
@@ -9502,13 +9502,13 @@ a.text-dark:hover, a.text-dark:focus {
 
 .navbar-dark .navbar-nav .nav-link {
   padding: 20px 10px;
-  color: #F5F5F5;
+  color: #486ea3;
   outline: none;
 }
 
 .navbar-dark .navbar-nav .nav-link:hover,
 .navbar-dark .navbar-nav .nav-link.active {
-  color: #FFD333;
+  color: #4f97e3;
 }
 
 @media (max-width: 991.98px) {
@@ -9519,7 +9519,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 .navbar-vertical.navbar-light .navbar-nav .nav-link {
   padding: 8px 30px;
-  border-bottom: 1px solid #F5F5F5;
+  border-bottom: 1px solid #4ac268;
 }
 
 .navbar-light .dropdown-toggle::after,
@@ -9538,13 +9538,13 @@ a.text-dark:hover, a.text-dark:focus {
   height: 15px;
   margin: 0 3px 12px 3px;
   background: transparent;
-  border: 1px solid #FFFFFF;
+  border: 1px solid #055780;
   transition: .5s;
 }
 
 .carousel-indicators .active {
   width: 30px;
-  background: #FFFFFF;
+  background: #055780;
 }
 
 .carousel-caption {
@@ -9552,7 +9552,7 @@ a.text-dark:hover, a.text-dark:focus {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(61, 70, 77, 0.5);
+  background: rgba(44, 204, 191, 0.5);
   z-index: 1;
 }
 
@@ -9563,7 +9563,7 @@ a.text-dark:hover, a.text-dark:focus {
   height: 0;
   top: 50%;
   left: 0;
-  border-top: 1px dashed #bec5cb;
+  border-top: 1px dashed #5086b3;
   z-index: -1;
 }
 
@@ -9594,17 +9594,17 @@ a.text-dark:hover, a.text-dark:focus {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background: rgba(61, 70, 77, 0.5);
+  background: rgba(44, 204, 191, 0.5);
   z-index: 1;
 }
 
 .cat-item {
-  background: #FFFFFF;
+  background: #413db8;
   transition: .5s;
 }
 
 .cat-item:hover {
-  background: #FFD333;
+  background: #4a8bed
 }
 
 .cat-item img {
@@ -9639,11 +9639,11 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .product-item:hover {
-  box-shadow: 0 0 30px #DDDDDD;
+  box-shadow: 0 0 30px #397348;
 }
 
 .product-item:hover .product-action {
-  background: rgba(255, 255, 255, 0.7);
+  background:rgba(28, 175, 99, 0.73));
 }
 
 .product-item:hover .product-action a.btn:first-child {
@@ -9679,12 +9679,12 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .product-item .btn:hover {
-  color: #FFD333 !important;
+  color: #92c48f !important;
 }
 
 .table.table-borderless thead tr,
 .table.table-borderless tbody tr:not(:last-child) {
-  border-bottom: 15px solid #F5F5F5;
+  border-bottom: 15px solid #97ccaa;
 }
 
 .contact-form .help-block ul {
